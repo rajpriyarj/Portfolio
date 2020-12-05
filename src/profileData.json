@@ -1,0 +1,103 @@
+{
+	"landing": {
+		"firstName": "Raj",
+		"lastName": "Priya",
+		"phoneNumber": "+91-8865079857",
+		"bio": "I am a Web Developer. I use React and HTML, CSS for the frontend development & NodeJS, ExpressJS, MySQL for backend developement.",
+    	"email": "rajpriyarj75@gmail.com",
+    	"linkedin": "https://www.linkedin.com/in/raj-priya-847389a8/",
+		"github": "https://github.com/rajpriyarj",
+		"twitter": "https://twitter.com/rajpriya_rj"
+	},
+	"experience": [
+		{
+			"position": "Web Developer Intern",
+			"organization": "Finfish Events Pvt. Ltd.",
+			"aboutWork": "Responsible for designing and building website for the company.",
+			"fromDate": "May 2019",
+			"toDate": "October 2019"
+		},
+		{
+			"position": "Web Developer Intern",
+			"organization": "Dwarfstar Studios LLP",
+			"aboutWork": "Designed the website of the company Edison Engineering Enterprises using HTML5/ CSS3/ Bootstrap/ jQuery. Link of the website I made: https://edisonengineering.co.in/",
+			"fromDate": "April 2020",
+			"toDate": "May 2020"
+		}
+	],
+	"education": [
+		{
+			"university": "KIET Group of Institutions (AKTU)",
+			"degree": "Bachelor of Technology",
+			"cgpa": "8.5 CGPA",
+			"fromDate": "August 2017",
+			"toDate": "Present"
+		},
+		{
+			"university": "Gyan Kunj Academy (CBSE)",
+			"degree": "Intermediate",
+			"cgpa": "8.2 CGPA",
+			"fromDate": "April 2015",
+			"toDate": "March 2016"
+		},
+		{
+			"university": "Gyan Kunj Academy (CBSE)",
+			"degree": "High School",
+			"cgpa": "8.8 CGPA",
+			"fromDate": "April 2013",
+			"toDate": "March 2014"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "MySql"
+		}
+	],
+	"project": [
+		{
+			"name": "Break-out Game",
+			"detail": "Developed Paddle Ball Game using pure Javascript. Link : https://rajpriyarj.github.io/Breakout-game/ "
+		},
+		{
+			"name": "REST Api",
+			"detail": "Implemented CRUD operations for enrollment of students in various courses. Used JWT Authentication for verification. Stores data in MySQL."
+		},
+		{
+			"name": "Scribble Game",
+			"detail": "Developed a clone to skribble.io using p5 and sockets.io. Designed canvas for drawing images visible to each users playing using socket. Implemented Chat-box for answers."
+		},
+		{
+			"name": "Meal Manager",
+			"detail": "Developed the application to reduce food wastage. Designed the Admin Panel using HTML5, CSS3."
+		},
+		{
+			"name": "Canteen Automation System",
+			"detail": "Developed the application which can not only save time of customers but also reduces rush on the cash counter. Used HTML, CSS, PHP, MySQL, Bootstrap)."
+		}
+		
+	],
+	"awards": [{
+			"awardDetail": "NEC Food Hackathon | 1st Runner-up"
+		},
+		{
+			"awardDetail": "Festin-o-Beat 11.0 | 1st Position"
+		},
+		{
+			"awardDetail": "Apratim 18 | 1st Runner-up"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy most of my time in making crafts and sketches."
+	}
+}
